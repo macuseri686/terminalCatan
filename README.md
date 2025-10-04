@@ -63,12 +63,6 @@ Uses MCP GameLab to generate simple icons/sprites. Artifacts are stored under `a
 - `enter` (setup phase): prime placement; then click a vertex/edge with the mouse to place settlement/road
 - Mouse: click on the board to place settlements/roads during setup
 
-### Known limitations
-
-- Rules are simplified; only a demo road build is implemented during turns.
-- Robber stealing is not implemented; moving the robber only advances phase.
-- Multiplayer is experimental (echo-only) and not authoritative across clients.
-
 ### License
 
 MIT
