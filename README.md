@@ -44,10 +44,6 @@ Simple host/join over websockets. Current implementation is demo-only (echo sync
 - On another client choose "Join Multiplayer". Leave the default `localhost:8765` or enter a different host, then Join.
 - The client sends its game state to the host; full turn sync and conflict resolution are not implemented.
 
-### Assets
-
-Uses MCP GameLab to generate simple icons/sprites. Artifacts are stored under `assets/` organized by type.
-
 ### Controls
 
 - `r`: roll dice and distribute resources
