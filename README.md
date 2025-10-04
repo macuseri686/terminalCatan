@@ -1,6 +1,8 @@
 ### Term Catan
 
-A terminal-based Settlers of Catan-like game built with Python and urwid. Supports single-player (AI opponents) and experimental multiplayer via JSON game state sync over websockets.
+A terminal-based Settlers of Catan-like game built with Python and urwid. Supports single-player and experimental multiplayer via JSON game state sync over websockets.
+
+<img width="2226" height="1443" alt="Screenshot from 2025-10-04 12-16-53" src="https://github.com/user-attachments/assets/4d460563-cbf1-4ac5-a20b-1d7b38f22581" />
 
 ### Quick start
 
