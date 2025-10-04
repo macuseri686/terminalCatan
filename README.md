@@ -69,15 +69,6 @@ Uses MCP GameLab to generate simple icons/sprites. Artifacts are stored under `a
 - Robber stealing is not implemented; moving the robber only advances phase.
 - Multiplayer is experimental (echo-only) and not authoritative across clients.
 
-### MCP Assets (optional)
-
-This project can use GameLab MCP to generate icons. Provide an API key and I can generate assets for you:
-
-1) Share your API key here (it won't be saved in code), or
-2) Set an environment variable and tell me to proceed: `export GAMELAB_API_KEY=...`
-
-Then I will create an MCP project and generate basic icons for resources.
-
 ### License
 
 MIT
